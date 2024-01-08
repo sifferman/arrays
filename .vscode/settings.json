@@ -1,0 +1,7 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "verilog.linting.linter": "verilator",
+    "verilog.linting.verilator.arguments": "-Wno-MODDUP -Wno-WIDTH --timing"
+}
