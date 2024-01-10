@@ -16,4 +16,4 @@ vivado-build
 vivado.v
 *vivado.v
 
-*.svg
+*.netlistsvg.svg
